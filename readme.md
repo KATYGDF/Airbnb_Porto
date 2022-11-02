@@ -16,6 +16,7 @@ Este projeto tem por objetivo entender este mercado na cidade do Rio de Janeiro 
 Este projeto foi desenvolvido no ambito do curso Python Impressionador, ministrado pelo instrutor João Paulo Rodrigues de Lira.
 
 A base de dados e a inspiração para a construção deste projeto foram obtidas no site [kaggle](https://www.kaggle.com/code/allanbruno/helping-regular-people-price-listings-on-airbnb/data).
+
 Agradeço ao Allan Bruno pela inspiração e ao João Lira pela didática na condução das análises em Python.
 
 ## Expectativas Iniciais
