@@ -22,7 +22,8 @@ Agradeço ao Allan Bruno pela inspiração e ao João Lira pela didática na con
 ## Expectativas Iniciais
 
 A cidade do Rio de Janeiro é uma cidade turística e na alta temporada a hospedagem tende a ficar mais cara, principalmente no carnaval e o réveillon, por isso, acredita-se que o período de visita possa impactar o preço do imóvel.
-Também é uma cidade de grande dimensão territorial e densidade populacional de forma que os deslocamentos podem ser bastante demorados, por isso, acredita-se que a localização seja um fator de relevância para o preço do imóvel.
+
+O Rio é uma cidade de grande dimensão territorial e densidade populacional de forma que os deslocamentos podem ser bastante demorados, por isso, acredita-se que a localização seja um fator de relevância para o preço do imóvel.
 
 
 1. item 1
