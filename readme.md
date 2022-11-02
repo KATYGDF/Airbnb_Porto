@@ -26,13 +26,9 @@ A cidade do Rio de Janeiro é uma cidade turística e na alta temporada a hosped
 O Rio é uma cidade de grande dimensão territorial e alta densidade populacional de forma que os deslocamentos podem ser bastante demorados, por isso, acredita-se que a localização seja um fator de relevância para o preço do imóvel.
 
 
-1. item 1
-2. item 2
+## Técnicas Aplicadas
 
-*itálico*
-
-**negrito**
-
+Neste projeto será realizada análise exploratória dos dados com vistas a entender se as expectativas estão alinhadas com as observações, extrair insites de análises relevantes e por fim testaremos alguns modelos de aprendizado supervisionados para identificar aquele que melhor se ajusta aos dados e produz a melhor predição de preço do alojamento na cidade do Rio de Janeiro.
 
 
 
