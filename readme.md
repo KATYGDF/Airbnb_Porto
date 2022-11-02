@@ -13,13 +13,13 @@ Este projeto tem por objetivo entender este mercado na cidade do Porto em Portug
 
 ## Inspirações e Créditos
 
-Este projeto foi inspirado em outros três projetos com dados do Airbnb realizados por Allan Bruno no [kaggle](https://www.kaggle.com/code/allanbruno/helping-regular-people-price-listings-on-airbnb/data), Bruno Azambuja no [LinkedIn](https://www.linkedin.com/pulse/airbnb-em-roma-uma-demonstra%C3%A7%C3%A3o-dos-dados-abertos-bruno-azambuja/) e Jaão Lira professor da [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/) onde aperfeiçoei meus conhecimentos em Python .
+Este projeto foi inspirado em outros três projetos com dados do Airbnb realizados por Allan Bruno no [Kaggle](https://www.kaggle.com/code/allanbruno/helping-regular-people-price-listings-on-airbnb/data), Bruno Azambuja no [LinkedIn](https://www.linkedin.com/pulse/airbnb-em-roma-uma-demonstra%C3%A7%C3%A3o-dos-dados-abertos-bruno-azambuja/) e João Lira professor da [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/), onde aperfeiçoei meus conhecimentos em Python.
 
-Agradeço especialmente ao João Lira pela didática na condução das análises em Python.
+Agradeço imensamente a partilha de vossas experiências.
 
 ## Expectativas Iniciais
 
-Porto de elevada importância turistica e por isso, imagina-se que em determinados períodos o custo da estadia seja mais elevado e que a localização geográfica tenha influência no preço dos imóveis.
+Porto possui elevada importância turistica e alto potencial para receber visitantes, tanto para desfrutar de suas belezas naturais e arquitetônicas, quanto culturais. Por esta razão, imagina-se que em determinados períodos do ano o custo da estadia seja mais elevado e que a localização geográfica tenha influência no preço dos imóveis.
 
 
 ## Técnicas Aplicadas
