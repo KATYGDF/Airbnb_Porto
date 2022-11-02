@@ -24,7 +24,7 @@ Porto possui elevada importância turistica e alto potencial para receber visita
 
 ## Técnicas Aplicadas
 
-Neste projeto será realizada análise exploratória dos dados com vistas a entender se as expectativas estão alinhadas com as observações e extrair insites de análises relevantes e por fim testaremos alguns modelos de aprendizado supervisionados para identificar aquele que melhor se ajusta aos dados e produz a melhor predição de preço do alojamento na cidade do Rio de Janeiro.
+Neste projeto será realizada análise exploratória dos dados com vistas a entender se as expectativas estão alinhadas com as observações e extrair insites de análises relevantes e por fim testaremos alguns modelos de aprendizado supervisionados para identificar aquele que melhor se ajusta aos dados e produz a melhor predição de preço do alojamento na cidade do Porto.
 
 
 
