@@ -1,6 +1,6 @@
-# Projeto Airbnb Rio - Previsão de Preço de Imóvel
+# Projeto Airbnb Porto - Previsão de Preço de Imóvel
 
-![imagem](Rio_de_Janeiro_City_Before_Sunrise_2.jpg)
+![imagem](DSC_0460.jpg)
 
 ## Contexto
 O Airbnb é uma comunidade baseada na partilha que surgiu em 2008 quando dois designers que tinham um espaço para partilhar hospedaram três viajantes que estavam à procura de alojamento. 
@@ -9,26 +9,22 @@ Atualmente, milhões de anfitriões e viajantes escolhem criar uma conta Airbnb 
 
 ## Objetivo
 
-Este projeto tem por objetivo entender este mercado na cidade do Rio de Janeiro e construir um modelo de previsão que permita a uma pessoa que tenha um alojamento disponivel saber o quanto ela poderá cobrar pelo serviço de hospedagem.
+Este projeto tem por objetivo entender este mercado na cidade do Porto em Portugal e construir um modelo de previsão que permita a uma pessoa que tenha um alojamento disponivel saber o quanto ela poderá cobrar pelo serviço de hospedagem.
 
 ## Inspirações e Créditos
 
-Este projeto foi desenvolvido no ambito do curso Python Impressionador, ministrado pelo instrutor João Paulo Rodrigues de Lira.
+Este projeto foi inspirado em outros três projetos com dados do Airbnb realizados por Allan Bruno no [kaggle](https://www.kaggle.com/code/allanbruno/helping-regular-people-price-listings-on-airbnb/data), Bruno Azambuja no [LinkedIn](https://www.linkedin.com/pulse/airbnb-em-roma-uma-demonstra%C3%A7%C3%A3o-dos-dados-abertos-bruno-azambuja/) e Jaão Lira professor da [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/) onde aperfeiçoei meus conhecimentos em Python .
 
-A base de dados e a inspiração para a construção deste projeto foram obtidas no site [kaggle](https://www.kaggle.com/code/allanbruno/helping-regular-people-price-listings-on-airbnb/data).
-
-Agradeço ao Allan Bruno pela inspiração e ao João Lira pela didática na condução das análises em Python.
+Agradeço especialmente ao João Lira pela didática na condução das análises em Python.
 
 ## Expectativas Iniciais
 
-A cidade do Rio de Janeiro é uma cidade turística e na alta temporada a hospedagem tende a ficar mais cara, principalmente no carnaval e o réveillon, por isso, acredita-se que o período de visita possa impactar o preço do imóvel.
-
-O Rio é uma cidade de grande dimensão territorial e alta densidade populacional de forma que os deslocamentos podem ser bastante demorados, por isso, acredita-se que a localização seja um fator de relevância para o preço do imóvel.
+Porto de elevada importância turistica e por isso, imagina-se que em determinados períodos o custo da estadia seja mais elevado e que a localização geográfica tenha influência no preço dos imóveis.
 
 
 ## Técnicas Aplicadas
 
-Neste projeto será realizada análise exploratória dos dados com vistas a entender se as expectativas estão alinhadas com as observações, extrair insites de análises relevantes e por fim testaremos alguns modelos de aprendizado supervisionados para identificar aquele que melhor se ajusta aos dados e produz a melhor predição de preço do alojamento na cidade do Rio de Janeiro.
+Neste projeto será realizada análise exploratória dos dados com vistas a entender se as expectativas estão alinhadas com as observações e extrair insites de análises relevantes e por fim testaremos alguns modelos de aprendizado supervisionados para identificar aquele que melhor se ajusta aos dados e produz a melhor predição de preço do alojamento na cidade do Rio de Janeiro.
 
 
 
