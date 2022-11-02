@@ -1,4 +1,4 @@
-# Projeto Airbnb Rio - Previsão de Preço de Imóvel para pessoas comuns
+# Projeto Airbnb Rio - Previsão de Preço de Imóvel
 
 ![imagem](Rio_de_Janeiro_City_Before_Sunrise_2.jpg)
 
@@ -8,7 +8,7 @@ Atualmente, milhões de anfitriões e viajantes escolhem criar uma conta Airbnb 
 
 ## Objetivo
 
-Este projeto tem por objetivo construir um modelo de previsão que permita a uma pessoa que tenha um alojamento disponivel saber o quanto ela poderá cobrar pelo serviço de hospedagem.
+Este projeto tem por objetivo entender este mercado na cidade do Rio de Janeiro e construir um modelo de previsão que permita a uma pessoa que tenha um alojamento disponivel saber o quanto ela poderá cobrar pelo serviço de hospedagem.
 
 ## Inspirações e Créditos
 
